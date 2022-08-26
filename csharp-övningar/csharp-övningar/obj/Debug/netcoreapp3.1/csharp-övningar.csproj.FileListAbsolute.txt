@@ -1,0 +1,14 @@
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\bin\Debug\netcoreapp3.1\csharp-övningar.exe
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\bin\Debug\netcoreapp3.1\csharp-övningar.deps.json
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\bin\Debug\netcoreapp3.1\csharp-övningar.runtimeconfig.json
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\bin\Debug\netcoreapp3.1\csharp-övningar.runtimeconfig.dev.json
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\bin\Debug\netcoreapp3.1\csharp-övningar.dll
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\bin\Debug\netcoreapp3.1\csharp-övningar.pdb
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\obj\Debug\netcoreapp3.1\csharp-övningar.csproj.AssemblyReference.cache
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\obj\Debug\netcoreapp3.1\csharp-övningar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\obj\Debug\netcoreapp3.1\csharp-övningar.AssemblyInfoInputs.cache
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\obj\Debug\netcoreapp3.1\csharp-övningar.AssemblyInfo.cs
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\obj\Debug\netcoreapp3.1\csharp-övningar.csproj.CoreCompileInputs.cache
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\obj\Debug\netcoreapp3.1\csharp-övningar.dll
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\obj\Debug\netcoreapp3.1\csharp-övningar.pdb
+C:\Users\hugo.sundbom\Desktop\c-uppgifter\csharp-övningar\csharp-övningar\obj\Debug\netcoreapp3.1\csharp-övningar.genruntimeconfig.cache
