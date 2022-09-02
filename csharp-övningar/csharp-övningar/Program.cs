@@ -150,12 +150,150 @@ namespace csharp_övningar
             Console.WriteLine($"{one} / {two} = {one / two}");
             Console.WriteLine($"{one} * {two} = {one * two}");
             */
-            //UPPGIFT 24
+            /*UPPGIFT 24
             Console.WriteLine("Skriv ett heltal");
             int input = Convert.ToInt32(Console.ReadLine());
             if (input > 120)
             {
                 Console.WriteLine("SPEEEEEEDING");
+            }
+            */
+            /*UPPGIFT 25
+            Console.WriteLine("Skriv ett heltal");
+            string input = Console.ReadLine();
+            if(input == "1984")
+            {
+                Console.WriteLine("Orwell");
+            }
+            */
+            /*UPPGIFT 26
+            Console.WriteLine("Hur gammal är du?");
+            int input = Convert.ToInt32(Console.ReadLine());
+            if(input < 1900)
+            {
+                Console.WriteLine("Du är gammal");
+            }
+            */
+            /*UPPGIFT 27
+            Console.WriteLine("Skriv ett tal");
+            int input = Convert.ToInt32(Console.ReadLine());
+            if(input < 0)
+            {
+                Console.WriteLine("Det är negativt");
+            }
+            else if(input > 0)
+            {
+                Console.WriteLine("Det är positivt");
+            }
+            */
+            /*UPPGIFT 28
+            Console.WriteLine("Hur gammal är du?");
+            int input = Convert.ToInt32(Console.ReadLine());
+            if(input >= 18)
+            {
+                Console.WriteLine("Du är vuxen");
+            }
+            else
+            {
+                Console.WriteLine("Du är inte vuxen");
+            }
+            */
+            /*UPPGIFT 29
+            Console.WriteLine("Skriv 2 tal");
+            int one = Convert.ToInt32(Console.ReadLine());
+            int two = Convert.ToInt32(Console.ReadLine());
+            if(one > two)
+            {
+                Console.WriteLine("tal 1 är störst");
+            }
+            else if(one < two)
+            {
+                Console.WriteLine("Tal 2 är störst");
+            }
+            else
+            {
+                Console.WriteLine("De är lika");
+            }
+            */
+            /*UPPGIFT 30
+            Console.WriteLine("Hur många % fick du?");
+            int input = Convert.ToInt32(Console.ReadLine());
+            if (input < 50)
+            {
+                Console.WriteLine("F");
+            }
+            else if (input < 60)
+            {
+                Console.WriteLine("1");
+            }
+            else if (input < 70)
+            {
+                Console.WriteLine("2");
+            }
+            else if (input < 80)
+            {
+                Console.WriteLine("3");
+            }
+            else if (input < 90)
+            {
+                Console.WriteLine("4");
+            }
+            else if (input < 100)
+            {
+                Console.WriteLine("5");
+            }
+            else if (input > 100)
+            {
+                Console.WriteLine("Utomordentligt");
+            }
+            */
+            /*UPPGIFT 31
+            Console.WriteLine("Skriv ett nummer");
+            int input = Convert.ToInt32(Console.ReadLine());
+            while(input > 2)
+            {
+                input = input / 2;
+            }
+            if(input == 1)
+            {
+                Console.WriteLine("Talet är udda");
+            }
+            else
+            {
+                Console.WriteLine("Talet är jämnt");
+            }
+            */
+            /*UPPGIFT 32
+            Console.WriteLine("SPEAK FRIEND AND ENTER");
+            string input = Console.ReadLine();
+            if(input == "Mellon")
+            {
+                Console.WriteLine("Enter, Friend")
+            }
+            else
+            {
+                Console.WriteLine("They've got a cave troll");
+            }
+            */
+            /*UPPGIFT 33
+            Console.WriteLine("Skriv 2 strings");
+            string one = Console.ReadLine();
+            string two = Console.ReadLine();
+            if(one == two)
+            {
+                Console.WriteLine("Echo");
+            }
+            else
+            {
+                Console.WriteLine("NEJ");
+            }
+            */
+            //UPPGIFT 34
+            Console.WriteLine("Vill du fortsätta?");
+            string input = Console.ReadLine();
+            while (input != "nej")
+            {
+                string input = Console.ReadLine();
             }
         }
     }
