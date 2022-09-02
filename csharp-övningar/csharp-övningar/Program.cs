@@ -126,6 +126,37 @@ namespace csharp_övningar
             int mult = one * two;
             Console.WriteLine(mult);
             */
+            /*UPPGIFT 21
+            Console.WriteLine("SKRIV 2 INTS");
+            int one = Convert.ToInt32(Console.ReadLine());
+            int two = Convert.ToInt32(Console.ReadLine());
+            int avr = (one + two)/2;
+            Console.WriteLine(avr);
+            */
+            /*UPPGIFT 22
+            Console.WriteLine("SKRIV 3 INTS");
+            int one = Convert.ToInt32(Console.ReadLine());
+            int two = Convert.ToInt32(Console.ReadLine());
+            int three = Convert.ToInt32(Console.ReadLine());
+            int avr = (one + two + three) / 3;
+            Console.WriteLine(avr);
+            */
+            /*UPPGIFT 23
+            Console.WriteLine("Skriv 2 siffror");
+            double one = Convert.ToDouble(Console.ReadLine());
+            double two = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine($"{one} + {two} = {one + two}");
+            Console.WriteLine($"{one} - {two} = {one - two}");
+            Console.WriteLine($"{one} / {two} = {one / two}");
+            Console.WriteLine($"{one} * {two} = {one * two}");
+            */
+            //UPPGIFT 24
+            Console.WriteLine("Skriv ett heltal");
+            int input = Convert.ToInt32(Console.ReadLine());
+            if (input > 120)
+            {
+                Console.WriteLine("SPEEEEEEDING");
+            }
         }
     }
 }
