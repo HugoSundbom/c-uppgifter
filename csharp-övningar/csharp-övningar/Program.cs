@@ -288,12 +288,22 @@ namespace csharp_övningar
                 Console.WriteLine("NEJ");
             }
             */
-            //UPPGIFT 34
+            /*UPPGIFT 34
             Console.WriteLine("Vill du fortsätta?");
             string input = Console.ReadLine();
             while (input != "nej")
             {
-                string input = Console.ReadLine();
+                input = Console.ReadLine();
+            }
+            */
+            //UPPGIFT 35
+            Console.WriteLine("Vad är meningen med livet?");
+            string input = Console.ReadLine();
+            while(input != "42")
+            {
+                Console.WriteLine("Vad är meningen med livet?");
+                input = Console.ReadLine();
+
             }
         }
     }
